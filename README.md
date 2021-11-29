@@ -1,65 +1,35 @@
-# Python Chatbot
-Hello, and welcome to Python Chatbot! This program was created by Kapilesh Pennichetty and Sanjay Balasubramanian. Through user interaction, it can do the following:
+# ChatBot_Tensorflow_NLP
+Artificial Intelligent ChatBot using Tensorflow and NLP that understand the Context and Intent of Human Language.
 
-- Retrieve the summary of a Wikipedia article
-- Find the weather of any location, automatically by finding the user's location using their external IP address*, or manually by prompting the user to enter a city
-- Play an Interactive Story, where the user decides how the character responds to different scenarios
+![Screenshot](chatbot.png)
 
-*Please note that if you are going to use the automatic IP address function, you must run it on a local machine for accurate results. This is because the program needs your IP address to accurately find your location, and then it uses your location to retrieve the weather. Also, please disable your VPN or Internet Proxy for accurate results.
+💯👉 FREEBIRDS CREW 👈🤖
+#FreeBirdsCrew #WeLearnandGrowTogether
+🔥Hey Guys!! Want to Learn about ChatBots?🤖 So the Solution is Here.
+This is the GitHub Repository for ChatBot using Tensorflow and NLP and the Video Tutorial for the Same include the following Topics -
 
-Also, please note that you will need to have Python 3.7 or newer to run this program. You can install Python for your operating system here: https://www.python.org/
+1. What are ChatBots?
 
-To operate the chatbot, you must first install these dependencies for the chatbot to be functional:
+2. What ChatBots Can Do?
 
-- Wikipedia API
+3. Architecture and Working of ChatBots
 
-  - For Windows users:
-    - Open the command prompt and type:
-    ```shell
-    pip install wikipedia-api
-    ```
-  - For POSIX (including macOS and Linux) users:
-    - Open the terminal and type:
-    ```shell
-    $ python3 -m pip install wikipedia-api
-    ```
-  
-- PyOWM
+4. Core Processes of ChatBots
 
-  - For Windows users:
-    - Open the command prompt and type:
-    ```shell
-    pip install pyowm
-    ```
-  - For POSIX (including macOS and Linux) users:
-    - Open the terminal and type:
-    ```shell
-    $ python3 -m pip install pyowm
-    ```
-  
-- IPStack for Python (Geo Location Library)
+5. Use Cases of ChatBots
 
-  - For Windows users:
-    - Open the command prompt and type:
-    ```shell
-    pip install ipstack
-    ```
-  - For POSIX (including macOS and Linux) users:
-    - Open the terminal and type:
-    ```shell
-    $ python3 -m pip install ipstack
-    ```
-    
-Then, download this repository, and run the "main.py" file to start interacting with the chatbot!
+6. Top Healthcare ChatBots
 
-Thank you for using Python Chatbot! We hope you enjoy using it!
+7. Top Companies that Implement ChatBots in Their Business.
 
-# Sources
-**Special thanks to Mr. Bailey Hulsey for his contributions and for sharing his knowledge of computer science to noobs like us!**
+8. Top Platforms to Build ChatBots and Tools used in ChatBot Development.
 
-- Wikipedia API and Documentation: https://github.com/martin-majlis/Wikipedia-API
-- Wikipedia: https://wikipedia.org
-- OpenWeatherMap Raw API and Documentation: https://openweathermap.org/current
-- OpenWeatherMap Python Library and Documentation: https://github.com/csparpa/pyowm
-- ipstack Raw API and Documentation: https://ipstack.com/documentation
-- ipstack Python Library and Documentation: https://github.com/nathan-fiscaletti/ipstackgeo-py
+9. Practical Work - Build One Contextual ChatBot Using Python, Tensorflow, and NLP.
+
+It's a very Informative Session that discloses about ChatBots and Their Internal Working Architecture along with Programming.
+
+This Session is useful for both Technical and Non-Technical Persons.
+
+YouTube - https://lnkd.in/esEC6bE
+
+Telegram - https://t.me/freebirdscrew
